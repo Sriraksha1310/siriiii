@@ -28,7 +28,7 @@ class TestCalculator(unittest.TestCase):
 if __name__ == "__main__":
 
     print("Student Calculator Application")
-    print("Addition:", add(50, 20))
+    print("Addition result:", add(50, 20))
     print("Subtraction:", subtract(20, 10))
     print("Multiplication:", multiply(5, 4))
 
